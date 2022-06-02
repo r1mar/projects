@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# docu comes from lib-ui-doc build
+rm-lib-ui
